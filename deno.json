@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run -A --unstable-kv --unstable-cron main.ts"
+  },
+  "imports": {
+    "@astral/astral": "jsr:@astral/astral@^0.5.0",
+    "@std/assert": "jsr:@std/assert@1",
+    "@std/datetime": "jsr:@std/datetime@^0.225.2"
+  }
+}

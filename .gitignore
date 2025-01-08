@@ -1,0 +1,6 @@
+node_modules/
+deno.db-shm
+deno.lock
+screenshot.png
+deno.db-wal
+.env
